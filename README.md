@@ -134,7 +134,7 @@ If you find HyperCDM is helpful and and can inspire you in your reseach or appli
  title = {Capturing Homogeneous Influence among Students: Hypergraph Cognitive Diagnosis for Intelligent Education Systems},
  year = {2024},
  address = {Barcelona, Spain},
- page = {}
+ page = {2628 - 2639}
 }
 ```
 
